@@ -14,4 +14,5 @@ Currently learning: Ai/ml, DataScience, and GitHub Actions
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi&layout=compact)
 ## Connect with Me- 
 ✉️ Email: allakondavaishnavi@gmail.com 
+
 LinkedIn: VaishnaviProfile](https://linkedin.com/in/vaishnavi)
